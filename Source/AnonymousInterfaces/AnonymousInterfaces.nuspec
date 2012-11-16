@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+ <metadata>
+  <id>Nito.AnonymousInterfaces</id>
+  <version>$version$</version>
+  <title>Anonymous Interfaces (by Stephen Cleary)</title>
+  <authors>$author$</authors>
+  <owners>$author$</owners>
+  <summary>$description$</summary>
+  <description>$description$</description>
+  <language>en-US</language>
+<!--  <projectUrl>http://nitoasyncex.codeplex.com/</projectUrl>
+  <iconUrl>https://lh3.googleusercontent.com/-rWegFo7oREc/Tmgxy2qf6mI/AAAAAAAAFoE/15IERRFJ01I/s800/cadence%2525202%252520small.PNG</iconUrl> -->
+  <tags>nito anonymous interface fluent</tags>
+  <releaseNotes>
+  </releaseNotes>
+ </metadata>
+ <files>
+ </files>
+</package>

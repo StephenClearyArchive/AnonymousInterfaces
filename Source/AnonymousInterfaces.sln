@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit Tests", "Unit Tests\Unit Tests.csproj", "{19294DF9-239C-45C4-9953-4264ABDC6B9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{E7BDD623-8F2A-47B3-B90E-BD5A57F17804}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".NugetBuild", ".NugetBuild", "{C09734FD-F06F-4A54-9EDD-E1829B856BB0}"
+	ProjectSection(SolutionItems) = preProject
+		AnonymousInterface\AnonymousInterfaces.nuspec = AnonymousInterface\AnonymousInterfaces.nuspec
+		BuildNugetPackage.targets = BuildNugetPackage.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousInterfaces", "AnonymousInterfaces\AnonymousInterfaces.csproj", "{7478F8D0-3CC7-48BC-A558-7CE02ACCF39A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19294DF9-239C-45C4-9953-4264ABDC6B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19294DF9-239C-45C4-9953-4264ABDC6B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19294DF9-239C-45C4-9953-4264ABDC6B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19294DF9-239C-45C4-9953-4264ABDC6B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7478F8D0-3CC7-48BC-A558-7CE02ACCF39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7478F8D0-3CC7-48BC-A558-7CE02ACCF39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7478F8D0-3CC7-48BC-A558-7CE02ACCF39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7478F8D0-3CC7-48BC-A558-7CE02ACCF39A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
