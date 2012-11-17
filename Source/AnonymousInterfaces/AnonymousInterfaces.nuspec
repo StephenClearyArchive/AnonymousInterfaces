@@ -10,7 +10,7 @@
   <description>$description$</description>
   <language>en-US</language>
   <projectUrl>http://anonymousinterfaces.codeplex.com/</projectUrl>
-  <iconUrl>http://www.codeplex.com/Download?ProjectName=anonymousinterfaces&DownloadId=533753</iconUrl>
+  <iconUrl>http://www.codeplex.com/Download?ProjectName=anonymousinterfaces&amp;DownloadId=533753</iconUrl>
   <tags>nito anonymous interface fluent</tags>
   <releaseNotes>
   </releaseNotes>

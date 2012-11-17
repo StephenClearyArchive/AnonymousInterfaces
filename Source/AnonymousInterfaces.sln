@@ -12,7 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{E7BDD6
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".NugetBuild", ".NugetBuild", "{C09734FD-F06F-4A54-9EDD-E1829B856BB0}"
 	ProjectSection(SolutionItems) = preProject
-		AnonymousInterface\AnonymousInterfaces.nuspec = AnonymousInterface\AnonymousInterfaces.nuspec
+		AnonymousInterfaces\AnonymousInterfaces.nuspec = AnonymousInterfaces\AnonymousInterfaces.nuspec
 		BuildNugetPackage.targets = BuildNugetPackage.targets
 	EndProjectSection
 EndProject
